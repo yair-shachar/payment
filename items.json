@@ -1,0 +1,37 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "Album I",
+            "price": 1299,
+            "imageName": "Album 1.png"
+        },
+        {
+            "id": 2,
+            "name": "Album II",
+            "price": 1499,
+            "imageName": "Album 2.png"
+        },
+        {
+            "id": 3,
+            "name": "Album III",
+            "price": 999,
+            "imageName": "Album 3.png"
+        },
+        {
+            "id": 4,
+            "name": "Album IV",
+            "price": 1999,
+            "imageName": "Album 4.png"
+        }
+    ],
+    "merch": [
+        {
+            "id": 5,
+            "name": "Album I Shirt",
+            "price": 1799,
+            "imageName": "Shirt.png"
+        }
+    ]
+
+}
