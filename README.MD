@@ -9,4 +9,4 @@ This site is a demo for a store including a payment system with credit cards.
 
 ## Technologies and storage
 I used here HTML & CSS + JavaScript for the frontend.
-For the backend I used Node.js and Express, adding Styripe for all the apyment sysyem. Storring on my local was done in https://stripe.com/.
+For the backend I used Node.js and Express, adding Stripe for all the payment system. Storring on my local was done in https://stripe.com/.
